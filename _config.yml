@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Lea Simpson"
   avatar           : "profile.png"
-  bio              : "Art Librarian. Masters of Library and Information Studies, UCLA; Bachelor of Art Theory, UNSW"
-  location         : "Location"
+  bio              : "Art Librarian. Art Library Flaneur"
+  location         : "Sydney, Australia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
